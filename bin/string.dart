@@ -17,4 +17,13 @@ void main() {
 
   print(name1);
   print(name2);
+
+  // multiline string
+  var stringPanjang = '''
+ini string yang panjang
+bisa mambuat banyaj line
+apapun
+''';
+
+  print(stringPanjang);
 }
